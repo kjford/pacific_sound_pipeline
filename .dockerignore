@@ -1,0 +1,5 @@
+venv/
+humpback.ipynb
+.ipynb_checkpoints
+data/
+*.pyc

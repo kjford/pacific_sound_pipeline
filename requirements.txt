@@ -1,0 +1,8 @@
+boto3==1.21.21
+librosa==0.9.1
+numpy==1.21.6
+redun==0.8.7
+scipy==1.8.0
+SoundFile==0.10.3.post1
+tensorflow==2.8.0
+tensorflow-hub==0.12.0

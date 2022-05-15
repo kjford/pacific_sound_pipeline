@@ -1,0 +1,6 @@
+*.pyc
+.ipynb_checkpoints/
+venv/
+data/
+humpback_model_cache/
+.redun/
